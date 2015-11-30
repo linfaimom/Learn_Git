@@ -3,3 +3,5 @@
   These are useless words,just for testing the reset function of git.<br>
   Test pull the file to local from the github.<br>
   Creating a new branch is quick.
+
+  It's simple and useful!
