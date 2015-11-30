@@ -4,4 +4,4 @@
   Test pull the file to local from the github.<br>
   Creating a new branch is quick.
 
-  It's simple & useful.
+  It's simple And useful!
